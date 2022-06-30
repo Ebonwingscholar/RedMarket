@@ -1,0 +1,13 @@
+{userData}/Data/systems/mysystem/
+    system.json
+    template.json
+    scripts/
+        system-script.js
+        system-module.mjs
+    styles/
+        system-styles.css
+    packs/
+        monsters.db
+        items.db
+	lang/
+	    en.json
